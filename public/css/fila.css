@@ -1,0 +1,11 @@
+@font-face{
+    font-family: "LED BOARD";
+    src: url('../ledboard.TTF');
+    font-weight: 500;
+    font-style: normal;
+}
+
+h2{
+  font-family: "LED BOARD";
+
+}
